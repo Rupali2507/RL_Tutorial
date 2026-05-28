@@ -1,0 +1,10 @@
+#first run this in your terminal
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+tensorflow
+flappy-bird-gymnasium
+numpy
+matplotlib
+gymnasium
+stable-baselines3
+pandas
